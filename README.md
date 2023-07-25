@@ -1,2 +1,2 @@
-# goodbye-world
-A snarky re-telling of the typical hello-world program
+# goodbye-forever
+Just writing a bit about myself as instructed by GitHub Tutorial
